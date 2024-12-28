@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="2dp"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingEnd="1dp">
+
+
+
+
+
+
+
+
+
+        <ImageView
+            android:id="@+id/profile_image12"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/fun" />
+
+        <!-- Image 2 -->
+        <ImageView
+            android:id="@+id/profile_image239"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/family" />
+
+        <!-- Image 3 -->
+        <ImageView
+            android:id="@+id/profile_image133"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/fun" />
+
+
+        <ImageView
+            android:id="@+id/profile_image4"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/family" />
+
+
+        <ImageView
+            android:id="@+id/profile_image5"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/fun" />
+
+        <ImageView
+            android:id="@+id/profile_image1"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/family" />
+
+        <ImageView
+            android:id="@+id/profile_image2"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/fun" />
+
+
+        <ImageView
+            android:id="@+id/profile_image253"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/family" />
+
+
+        <ImageView
+            android:id="@+id/profile_image42"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/fun" />
+
+
+        <ImageView
+            android:id="@+id/profile_image534"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/fun" />
+
+
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+
+        <TextView
+            android:id="@+id/contact_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="-Nauman Irshad Ali Shah" />
+
+
+        <TextView
+            android:id="@+id/phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="+9203-2323232" />
+        <TextView
+            android:id="@+id/contact_name2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Amir " />
+
+
+        <TextView
+            android:id="@+id/phone_number2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="+9203-2323232" />
+        <TextView
+            android:id="@+id/contact_name3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Nauman Irshad Ali Shah" />
+
+
+        <TextView
+            android:id="@+id/phone_number3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="+9203-2323232" />
+        <TextView
+            android:id="@+id/contact_name4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Nauman Irshad Ali Shah" />
+
+
+        <TextView
+            android:id="@+id/phone_number42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="+9203-2323232" />
+        <TextView
+            android:id="@+id/contact_name22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Nauman Irshad Ali Shah" />
+
+
+        <TextView
+            android:id="@+id/phone_number5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="+9203-2323232" />
+        <TextView
+            android:id="@+id/contact_name6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Nauman Irshad Ali Shah" />
+
+
+        <TextView
+            android:id="@+id/phone_number7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="+9203-2323232" />
+        <TextView
+            android:id="@+id/contact_name8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Nauman Irshad Ali Shah" />
+
+
+        <TextView
+            android:id="@+id/phone_number9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="+9203-2323232" />
+        <TextView
+            android:id="@+id/contact_name10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Nauman Irshad Ali Shah" />
+
+
+        <TextView
+            android:id="@+id/phone_number131"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="+9203-2323232" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
